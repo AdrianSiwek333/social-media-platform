@@ -50,7 +50,7 @@ Projekt jest w pełni skonfigurowany do uruchomienia przy użyciu Docker Compose
 
 1.  **Sklonuj repozytorium:**
     ```bash
-    git clone [https://github.com/adriansiwek333/social-media-platform.git](https://github.com/adriansiwek333/social-media-platform.git)
+    git clone https://github.com/adriansiwek333/social-media-platform.git
     cd social-media-platform
     ```
 
