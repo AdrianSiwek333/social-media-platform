@@ -24,7 +24,7 @@ Projekt składa się z trzech głównych modułów:
 
 ## Główne Funkcjonalności
 
-Aplikacja jest w trakcie aktywnego rozwoju. Obecnie dostępne są następujące moduły:
+Aplikacja jest w trakcie rozwoju. Aktualnie dostępne są następujące funkcjonalności:
 
 * **Uwierzytelnianie:** Rejestracja, logowanie, obsługa tokenów JWT.
 * **Posty:** Możliwość dodawania nowych postów.
@@ -37,7 +37,7 @@ Aplikacja jest w trakcie aktywnego rozwoju. Obecnie dostępne są następujące 
 
 - `/frontend` - Kod źródłowy aplikacji klienckiej.
 - `/backend` - Kod źródłowy API.
-- `.env.example` - Przykładowy plik konfiguracyjny zmiennych środowiskowych.
+- `.env_template` - Przykładowy plik konfiguracyjny zmiennych środowiskowych.
 - `docker-compose.yml` - Plik konfiguracyjny orkiestracji kontenerów.
 
 ## Instalacja i Uruchomienie
