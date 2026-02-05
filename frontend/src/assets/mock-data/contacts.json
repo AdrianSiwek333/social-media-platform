@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "firstName": "Random",
+    "lastName": "User1",
+    "avatarUrl": "https://placehold.co/50/007bff/ffffff?text=RU1",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "firstName": "Anna",
+    "lastName": "Nowak",
+    "avatarUrl": "https://placehold.co/50/dc3545/ffffff?text=AN",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "firstName": "Piotr",
+    "lastName": "Zieliński",
+    "avatarUrl": "https://placehold.co/50/28a745/ffffff?text=PZ",
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "firstName": "Kasia",
+    "lastName": "Kowalska",
+    "avatarUrl": "https://placehold.co/50/ffc107/ffffff?text=KK",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "firstName": "Marek",
+    "lastName": "Developer",
+    "avatarUrl": "https://placehold.co/50/17a2b8/ffffff?text=MD",
+    "isActive": false
+  },
+  {
+    "id": 6,
+    "firstName": "Jan",
+    "lastName": "Kowalski",
+    "avatarUrl": "https://placehold.co/50/6610f2/ffffff?text=JK",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "firstName": "Maria",
+    "lastName": "Wiśniewska",
+    "avatarUrl": "https://placehold.co/50/e83e8c/ffffff?text=MW",
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "firstName": "Andrzej",
+    "lastName": "Wójcik",
+    "avatarUrl": "https://placehold.co/50/fd7e14/ffffff?text=AW",
+    "isActive": false
+  },
+  {
+    "id": 9,
+    "firstName": "Agnieszka",
+    "lastName": "Kowalczyk",
+    "avatarUrl": "https://placehold.co/50/20c997/ffffff?text=AK",
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "firstName": "Tomasz",
+    "lastName": "Kamiński",
+    "avatarUrl": "https://placehold.co/50/343a40/ffffff?text=TK",
+    "isActive": true
+  },
+  {
+    "id": 11,
+    "firstName": "Barbara",
+    "lastName": "Lewandowska",
+    "avatarUrl": "https://placehold.co/50/6f42c1/ffffff?text=BL",
+    "isActive": false
+  },
+  {
+    "id": 12,
+    "firstName": "Krzysztof",
+    "lastName": "Zieliński",
+    "avatarUrl": "https://placehold.co/50/007bff/ffffff?text=KZ",
+    "isActive": true
+  },
+  {
+    "id": 13,
+    "firstName": "Małgorzata",
+    "lastName": "Szymańska",
+    "avatarUrl": "https://placehold.co/50/d63384/ffffff?text=MS",
+    "isActive": true
+  },
+  {
+    "id": 14,
+    "firstName": "Paweł",
+    "lastName": "Woźniak",
+    "avatarUrl": "https://placehold.co/50/198754/ffffff?text=PW",
+    "isActive": false
+  },
+  {
+    "id": 15,
+    "firstName": "Elżbieta",
+    "lastName": "Dąbrowska",
+    "avatarUrl": "https://placehold.co/50/0dcaf0/ffffff?text=ED",
+    "isActive": true
+  }
+]
